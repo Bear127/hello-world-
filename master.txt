@@ -1,1 +1,8 @@
-
+'since'
+'copy'
+'finish'
+[5]
+#close
+who 
+how long will it last
+done
